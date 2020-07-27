@@ -31,8 +31,8 @@
                 <div class="container">
                     <div class="hero-inner">
 						<div class="hero-copy">
-	                        <h1 class="hero-title mt-0">Landing template for startups</h1>
-	                        <p class="hero-paragraph">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+	                        <h1 class="hero-title mt-0">A simple login page</h1>
+	                        <p class="hero-paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio possimus pariatur aliquid maiores aliquam doloribus tenetur nam id.</p>
 	                        <div class="hero-cta"><a class="button button-primary" href="/register">Register</a><a class="button" href="/login">Login</a></div>
 						</div>
 						<div class="hero-figure anime-element">
